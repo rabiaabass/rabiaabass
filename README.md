@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Rabia from Turkey,and I do .net development.🌱I'm currently improving my .net core skills.I really enjoy learning languages
+and frameworks like C# and .Net.🌱I'm currently following the latest technology.
+
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rabiaabass)
 
 <!--
