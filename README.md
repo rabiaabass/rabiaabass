@@ -1,22 +1,12 @@
-### Hi there 👋
+### Hi there 👋, Rabia Bas
+#### .Net Developer
+I'm Rabia from Turkey,and I do web development. I really enjoy learning languages and frameworks like C# and .Net. I'm currently following the latest technology.
 
-I'm Rabia from Turkey,and I do web development.🌱I'm currently improving my .Net Core skills.I really enjoy learning languages
-and frameworks like C# and .Net.🌱I'm currently following the latest technology.
+Skills: JS / HTML / CSS / Bootstrap / Jquery / Ajax / C# / EntityFramework / ASP.Net / .Net Core / 
+
+- 🔭 I’m currently working on company 
+- 🌱 I’m currently learning improving my .Net Core skills. 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rabiaabass)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rabiaabass)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rabia-ba%C5%9F-91ab401ba/)  
 
-<!--
-**rabiaabass/rabiaabass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on github ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
