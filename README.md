@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Rabia Bas
+## Hi there 👋, I'm Rabia Baş
 I'm Rabia from Turkey,and I do web development. I really enjoy learning languages and frameworks like C# and .Net. I'm currently following the latest technology.
 
 ## Skills and Experience
