@@ -1,8 +1,8 @@
-### Hi there 👋, Rabia Bas
-#### .Net Developer
+### Hi there 👋, I'm Rabia Bas
 I'm Rabia from Turkey,and I do web development. I really enjoy learning languages and frameworks like C# and .Net. I'm currently following the latest technology.
 
-Skills: JS / HTML / CSS / Bootstrap / Jquery / Ajax / C# / EntityFramework / ASP.Net / .Net Core / 
+#### Skills and Experience
+JS / HTML / CSS / Bootstrap / Jquery / Ajax / C# / EntityFramework / ASP.Net / .Net Core / 
 
 - 🔭 I’m currently working on company 
 - 🌱 I’m currently learning improving my .Net Core skills. 
