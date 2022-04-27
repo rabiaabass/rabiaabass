@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rabia from Turkey,and I do web development.🌱I'm currently improving my .net core skills.I really enjoy learning languages
+I'm Rabia from Turkey,and I do web development.🌱I'm currently improving my .Net Core skills.I really enjoy learning languages
 and frameworks like C# and .Net.🌱I'm currently following the latest technology.
 
 
